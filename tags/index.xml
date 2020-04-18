@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Lukas Fischer</title>
-    <link>https://cornua1.github.io/tags/</link>
+    <link>lfischer.org/tags/</link>
     <description>Recent content in Tags on Lukas Fischer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2020 Lukas Fischer</copyright>
     
-	<atom:link href="https://cornua1.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="lfischer.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
