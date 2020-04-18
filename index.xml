@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lukas Fischer</title>
-    <link>www.lfischer.org/</link>
+    <link>https://cornua1.github.io/</link>
     <description>Recent content on Lukas Fischer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2020 Lukas Fischer</copyright>
     <lastBuildDate>Sat, 11 Apr 2020 11:37:26 -0400</lastBuildDate>
     
-	<atom:link href="www.lfischer.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cornua1.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Publications</title>
-      <link>www.lfischer.org/publications/publications/</link>
+      <link>https://cornua1.github.io/publications/publications/</link>
       <pubDate>Sun, 12 Apr 2020 11:02:14 -0400</pubDate>
       
-      <guid>www.lfischer.org/publications/publications/</guid>
+      <guid>https://cornua1.github.io/publications/publications/</guid>
       <description>Journal Publications Fischer, L., Mojica Soto-Albors, R., Buck, F., &amp;amp; Harnett, M. T. (2020). Representation of visual landmarks in retrosplenial cortex.</description>
     </item>
     
     <item>
       <title>init()</title>
-      <link>www.lfischer.org/posts/initpost/</link>
+      <link>https://cornua1.github.io/posts/initpost/</link>
       <pubDate>Mon, 30 Mar 2020 16:54:08 -0400</pubDate>
       
-      <guid>www.lfischer.org/posts/initpost/</guid>
+      <guid>https://cornua1.github.io/posts/initpost/</guid>
       <description>Welcome to my new website. After a rather extensive hiatus from posting about my PhD work (Virtual Reality for Mice), I&amp;rsquo;ve decided to create a personal website to write the occasional piece on whatever I think might be interesting to others.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>www.lfischer.org/about/</link>
+      <link>https://cornua1.github.io/about/</link>
       <pubDate>Sun, 29 Mar 2020 18:02:59 -0400</pubDate>
       
-      <guid>www.lfischer.org/about/</guid>
+      <guid>https://cornua1.github.io/about/</guid>
       <description>About me I am a postdoctoral neuroscientist in the Harnett lab at the MIT McGovern Institute for Brain Research. I am interested in the mechanisms underlying how individual neurons and neural networks create meaningful representations from the multitude of sensory inputs we are bombarded with at any given point int time.</description>
     </item>
     
