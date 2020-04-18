@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Lukas Fischer</title>
-    <link>https://cornua1.github.io/posts/</link>
+    <link>www.lfischer.org/posts/</link>
     <description>Recent content in Posts on Lukas Fischer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2020 Lukas Fischer</copyright>
     <lastBuildDate>Mon, 30 Mar 2020 16:54:08 -0400</lastBuildDate>
     
-	<atom:link href="https://cornua1.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.lfischer.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>init()</title>
-      <link>https://cornua1.github.io/posts/initpost/</link>
+      <link>www.lfischer.org/posts/initpost/</link>
       <pubDate>Mon, 30 Mar 2020 16:54:08 -0400</pubDate>
       
-      <guid>https://cornua1.github.io/posts/initpost/</guid>
+      <guid>www.lfischer.org/posts/initpost/</guid>
       <description>Welcome to my new website. After a rather extensive hiatus from posting about my PhD work (Virtual Reality for Mice), I&amp;rsquo;ve decided to create a personal website to write the occasional piece on whatever I think might be interesting to others.</description>
     </item>
     
