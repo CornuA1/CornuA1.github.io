@@ -6,10 +6,6 @@
     <description>Recent content in Categories on Lukas Fischer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>©2020 Lukas Fischer</copyright>
-    
-	<atom:link href="https://cornua1.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>©2020 Lukas Fischer</copyright><atom:link href="https://cornua1.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
