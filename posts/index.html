@@ -76,17 +76,17 @@ if (!doNotTrack) {
 
 		<ul class="posts"><li class="post">
 				<a href="/posts/semidynamic_presentation/">Virtual poster presentations with blender</a> <span class="meta">Oct 25, 2020</span>
-			</li> <p><del>Recently</del> <del>Six</del> Eight months ago I submitted a poster to a small conference that has been moved onto a virtual platform because of the ongoing pandemic. Every participant had to create a 60-second long video presentation of their submission, with the only other instruction being &lsquo;be creative&rsquo;.</p>
-<p>Making such a presentation in a somewhat polished way turned out to be a little more challenging than expected. I decided to use <a href="https://www.blender.org/" target="_blank">blender</a>
- because it provides a powerful suite to be creative in almost any conceivable way. In my case, I wanted to move smoothly between parts of the poster, cue up the audio and play videos places where otherwise there would only be static figure panels. However, blender can also be a little difficult. For example, the way it handles lighting or renders textures in the distance is not made for this purpose and can make a presentation look blurry and washed out. That&rsquo;s why I decided to write a post about the settings I found useful tricks to get sharp text and crisp colors similar to what you would expect when you make your poster in a graphics editor. I won&rsquo;t be providing step-by-step instructions for things where people have made better instructional videos already. I will be linking those videos instead. Some blender experience is necessary, but there are many truly excellent videos out there that explain how blender works.</p>
-<p>First off, here is the actual video:
+			</li> <p>Around eight months ago, I submitted a poster to a small conference that had been moved onto a virtual platform due to the pandemic. Participants were required to create a 60-second long video presentation of their submission with the simple instruction to &ldquo;be creative&rdquo;.</p>
+<p>Making such a presentation in a polished way turned out to be a little more challenging than expected. I decided to use <a href="https://www.blender.org/" target="_blank">blender</a>
+ because it provides a powerful suite to implement almost any conceivable idea for a presentation. In my case, I wanted to move smoothly between parts of the poster, cue up the audio, and play videos where typically one would find static figure panels. However, blender also presented some challenges. For example, the way it handles lighting or renders textures in the distance is not made for this purpose, resulting in a blurry and washed out presentation. Therefore, I decided to write up a few tricks that I found particularly useful to get sharp text and crisp colors similar to what you would expect when you make your poster in a graphics editor. Some blender experience is necessary in order to follow this guidance, so I recommend checking out the many excellent videos out there that explain the basics of blender. Furthermore, I will not be providing step-by-step directions for methods that have existing instructional videos, but will instead provide links.</p>
+<p>First off, here is the video I submitted:
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/n0CsPZhWSy0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 </p>
 <h4 id="import-your-poster">Import your poster</h4>
-<p>The easiest way to get your poster into blender is to use the import image as plane plugin. You first have to activate it under <em>Edit/Preferences</em> then go to <em>Add-ons</em> and search for <strong>Import Images as Planes</strong>. Now you can go to <em>File/Import/Images as Planes</em> and get your poster imporated as a plane object. Set up the camera up so that it faces your poster directly. Finally, put the light source behind the camera, switch it to an Area light (select the light source and go to <em>Properties/Object Data Properties/Light</em> and select Area) and point it directly at the poster. There are a view more details about the lighting in the next section.</p>
+<p>The easiest way to get your poster into blender is to use the import image as plane plugin. You first have to activate it under <em>Edit/Preferences</em> then go to <em>Add-ons</em> and search for <strong>Import Images as Planes</strong>. Now you can go to <em>File/Import/Images as Planes</em> and get your poster imported as a plane object. Set up the camera up so that it faces your poster directly. Finally, put the light source behind the camera, switch it to an Area light (select the light source and go to <em>Properties/Object Data Properties/Light</em> and select Area) and point it directly at the poster. There are a view more details about the lighting in the next section.</p>
 <p>When you render the scene now, you should see your poster. To see how changes in the settings affect your poster right away, set your viewport shading to rendered (button in the top right corner of the 3D viewport pane).</p>
 <h4 id="true-colors-and-crisp-textures">True colors and crisp textures</h4>
 <p>Lighting in blender can be frustratingly difficult if you just want to have your white poster background actually look white and the colors look like they should. However, there are few easy steps you can take to get true colors</p>
@@ -102,7 +102,7 @@ if (!doNotTrack) {
 <p><a href="https://www.youtube.com/watch?v=aegiN7XeLow" target="_blank">This video</a>
  explains how to get a white scene background (which is not really what we are looking for) but it shows how to get to some of the settings I talk about above.</p>
 <h4 id="smooth-camera-movement">Smooth camera movement</h4>
-<p>Moving the camera around smoothly is perhaps one of the most helpful ways to make the presentation look polished. Pretty much everything you need to know about this is in <a href="https://www.youtube.com/watch?v=a7qyW1G350g" target="_blank">here</a>
+<p>Moving the camera around smoothly is perhaps one of the most helpful ways to make the presentation look polished. Pretty much everything you need to know about this is in <a href="https://www.youtube.com/watch?v=a7qyW1G350g" target="_blank">this video</a>
 . Fair warning: it took me a little bit of planning and quite a few attempts until I was happy with my camera movements.</p>
 <p>Once you do this, you will realize that your presentation is turning into an animation rather than a static scene. This means that rendering will start to take longer because you will now render each frame of an animation, rather than one single frame.</p>
 <h4 id="recording-and-cueing-up-audio">Recording and cueing up audio</h4>
@@ -119,7 +119,7 @@ if (!doNotTrack) {
 <p>Rendering your animation will take some time, but <a href="https://www.youtube.com/watch?v=LPbUuMs2i20" target="_blank">this video</a>
  does a great job explaining it. I&rsquo;ve rendered the video at 60 frames per second to make it look nice and smooth.</p>
 <h4 id="final-thoughts">Final thoughts</h4>
-<p>The amount of effort required to make a video presentation in blender may well be more compared to quicker alternatives (e.g. recording your screen while you move through Powerpoint slides for example), but there two great benefits. First, you can achieve much better quality for both your video and sound. Second, you have almost limitless freedom to be creative and learn new techniques and tricks in blender.</p>
+<p>The amount of effort required to make a video presentation in blender may well be more compared to quicker alternatives (e.g. recording your screen while you move through PowerPoint slides for example), but there two great benefits. First, you can achieve much better quality for both your video and sound. Second, you have almost limitless freedom to be creative and learn new techniques and tricks in blender.</p>
 <hr>
 <li class="post">
 				<a href="/posts/initpost/">Old blog (mousevr.blogspot.com)</a> <span class="meta">Mar 30, 2020</span>
@@ -130,7 +130,7 @@ if (!doNotTrack) {
 
 	<div class="footer wrapper">
 	<nav class="nav">
-		<div> ©2020 Lukas Fischer  </div>
+		<div> ©2021 Lukas Fischer  </div>
 	</nav>
 </div>
 
