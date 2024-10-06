@@ -1,6 +1,6 @@
 body {
 	color: #ddd;
-	background-color: #121212;
+	background-color: #000;
 }
 
 ::-moz-selection {
@@ -26,7 +26,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 a,a:hover {
-	color: #ff80ff;
+	color: #ff7979;
 	text-decoration: none;
 }
 
@@ -66,4 +66,8 @@ table th {
 table th, table td {
     padding: 10px 20px;
     border: 1px solid #666;
+}
+
+pre code {
+  display: inline-block
 }

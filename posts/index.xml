@@ -4,27 +4,24 @@
     <title>Posts on Lukas Fischer</title>
     <link>https://cornua1.github.io/posts/</link>
     <description>Recent content in Posts on Lukas Fischer</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>©2021 Lukas Fischer</copyright>
-    <lastBuildDate>Sun, 25 Oct 2020 23:18:45 -0400</lastBuildDate><atom:link href="https://cornua1.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>©2020 Lukas Fischer</copyright>
+    <lastBuildDate>Sun, 25 Oct 2020 23:18:45 -0400</lastBuildDate>
+    <atom:link href="https://cornua1.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Virtual poster presentations with blender</title>
-      <link>https://cornua1.github.io/posts/posterblender/</link>
+      <link>https://cornua1.github.io/posts/semidynamic_presentation/</link>
       <pubDate>Sun, 25 Oct 2020 23:18:45 -0400</pubDate>
-      
-      <guid>https://cornua1.github.io/posts/posterblender/</guid>
-      <description>Around eight months ago, I submitted a poster to a small conference that had been moved onto a virtual platform due to the pandemic.</description>
+      <guid>https://cornua1.github.io/posts/semidynamic_presentation/</guid>
+      <description>&lt;p&gt;&lt;del&gt;Recently&lt;/del&gt; Six months ago I submitted a poster to a small conference that has been moved onto a virtual platform because of the ongoing pandemic. Every participant had to create a 60-second long video presentation of their submission, with the only other instruction being &amp;lsquo;be creative&amp;rsquo;.&lt;/p&gt;&#xA;&lt;p&gt;Making such a presentation in a somewhat polished way turned out to be a little more challenging than expected. I decided to use &lt;a href=&#34;https://www.blender.org/&#34;&gt;blender&lt;/a&gt; because it provides a powerful suite to be creative in almost any conceivable way. In my case, I wanted to move smoothly between parts of the poster, cue up the audio and play videos places where otherwise there would only be static figure panels. However, blender can also be a little difficult. For example, the way it handles lighting, or rendering textures in the distance is not made for this purpose and can make a presentation look blurry and washed out. Thats why I decided to write a post about the settings I found useful tricks to get sharp text and crisp colors similar to what you would expect when you make your poster in a graphics editor. I won&amp;rsquo;t be providing step-by-step instructions for things where people have made better instructional videos already. I will be linking those videos instead. Some blender experience is necessary, but there are many truly excellent videos out there that explain how blender works.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Old blog, new website (mousevr.blogspot.com)</title>
+      <title>init()</title>
       <link>https://cornua1.github.io/posts/initpost/</link>
       <pubDate>Mon, 30 Mar 2020 16:54:08 -0400</pubDate>
-      
       <guid>https://cornua1.github.io/posts/initpost/</guid>
-      <description>Welcome to my new website. After a rather extensive hiatus from writing about my PhD work (Virtual Reality for Mice ), you will find some more information about me here.</description>
+      <description>&lt;p&gt;Welcome to my new website. After a rather extensive hiatus from posting about my PhD work (&lt;a href=&#34;http://mousevr.blogspot.com&#34;&gt;Virtual Reality for Mice&lt;/a&gt;), I&amp;rsquo;ve decided to create a personal website to write the occasional piece on whatever I think might be interesting to others. Chances are, the topics will mostly be at least tangential to the work I do.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
