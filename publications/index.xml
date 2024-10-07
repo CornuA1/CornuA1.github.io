@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Lukas Fischer</title>
-    <link>www.lfischer.org/publications/</link>
+    <link>https://cornua1.github.io/publications/</link>
     <description>Recent content in Publications on Lukas Fischer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>©2020-2024 Lukas Fischer</copyright>
     <lastBuildDate>Sun, 12 Apr 2020 11:02:14 -0400</lastBuildDate>
-    <atom:link href="www.lfischer.org/publications/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cornua1.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publications</title>
-      <link>www.lfischer.org/publications/publications/</link>
+      <link>https://cornua1.github.io/publications/publications/</link>
       <pubDate>Sun, 12 Apr 2020 11:02:14 -0400</pubDate>
-      <guid>www.lfischer.org/publications/publications/</guid>
+      <guid>https://cornua1.github.io/publications/publications/</guid>
       <description>&lt;h3 id=&#34;journal-publications&#34;&gt;Journal Publications&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Fischer, L.&lt;/strong&gt;, Mojica Soto-Albors, R., Buck, F., &amp;amp; Harnett, M. T. (2020). Representation of visual landmarks in retrosplenial cortex. ELife, 9, 811430.&lt;br&gt;&#xA;&lt;a href=&#34;https://doi.org/10.7554/eLife.51458&#34;&gt;article&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;http://news.mit.edu/2020/brain-encodes-landmarks-navigate-0310&#34;&gt;MIT News&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://elifesciences.org/digests/51458/virtual-reality-for-mice&#34;&gt;eLife digest showcase&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Pakan, J. M. P.*, Currie, S. P.*, &lt;strong&gt;Fischer, L.*&lt;/strong&gt;, Rochefort, N. L. (2018). The Impact of Visual Cues, Reward, and Motor Feedback on the Representation of Behaviorally Relevant Spatial Locations in Primary Visual Cortex. Cell Reports, 24(10), 2521–2528.&lt;br&gt;&#xA;&lt;a href=&#34;https://doi.org/10.1016/j.celrep.2018.08.010&#34;&gt;article&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Tennant, S. A., &lt;strong&gt;Fischer, L.&lt;/strong&gt;, Garden, D. L. F., Gerlei, K. Z., Martinez-Gonzalez, C., McClure, C., Wood, E. R., Nolan, M. F. (2018). Stellate Cells in the Medial Entorhinal Cortex Are Required for Spatial Learning. Cell Reports, 22(5), 1313–1324.&lt;br&gt;&#xA;&lt;a href=&#34;https://doi.org/10.1016/j.celrep.2018.01.005&#34;&gt;article&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
